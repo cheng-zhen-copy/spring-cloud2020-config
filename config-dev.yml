@@ -1,2 +1,2 @@
 config:
-  info: config-dev  hello world
+  info: "config-dev  hello world version=1"
