@@ -1,2 +1,2 @@
-server:
-  port: 80
+config:
+  info: config-dev  hello world
